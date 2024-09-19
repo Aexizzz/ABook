@@ -1,0 +1,22 @@
+.img{
+    width: 100px;
+    padding-left: 100px;
+}
+.buy{
+    display: flex;
+    margin-left: 105px;
+    gap: 80px;
+    text-align: center;
+    align-items: center;
+}
+.button{
+    width: 120px;
+    height: 30px;
+    font-size: 18px;
+    color: white;
+    background-color: #2C3E50;
+    border-radius: 50px;
+}
+.button:hover{
+    background-color: #3d5670;
+}
