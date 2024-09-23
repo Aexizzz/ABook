@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto-Regular.ttf)
+
+}
+.main__title{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+}
+.main{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 24px;
+}
+p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+}
